@@ -34,5 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          node-version: 16  # Specify Node.js 16 here
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
