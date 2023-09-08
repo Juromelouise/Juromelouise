@@ -7,6 +7,9 @@
 Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=2000&pause=1000&color=66ffff&width=435&lines=I'm+Jurome+De+Jesus;3rd+Year+College+Student;Technological+University+Of+The+Philippines)](https://git.io/typing-svg)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juromelouise&label=Profile%20views&color=0e75b6&style=flat" alt="juromelouise" /> </p>
+
 - 🔭 I’m currently working on [Laravel](https://laravel.com/) and [React](https://react.dev/)
 - 🌱 I’m currently learning **Javascript**
 <!--
