@@ -1,5 +1,5 @@
 [![An image of @juromelouise's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juromelouise)](https://holopin.io/@juromelouise)
-<h1> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" height="70%"></h1>
+<h1> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30" height="70%"></h1>
 
 <!--
 **Juromelouise/Juromelouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
