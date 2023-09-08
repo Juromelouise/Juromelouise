@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/juromelouise/juromelouise/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="juromelouise" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" /> -->
+</p>
 
 
