@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=2000&pause=1000&color=5DFF28&width=435&lines=I'm+Jurome+De+Jesus;3rd+Year+College+Student;Technological+University+Of+The+Philippines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=2000&pause=1000&color=66ffff&width=435&lines=I'm+Jurome+De+Jesus;3rd+Year+College+Student;Technological+University+Of+The+Philippines)](https://git.io/typing-svg)
 - 🔭 I’m currently working on [Laravel](https://laravel.com/) and [React](https://react.dev/)
 - 🌱 I’m currently learning **Javascript**
 <!--
