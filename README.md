@@ -1,4 +1,4 @@
-<img src="https://holopin.me/juromelouise">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
 
 <h1> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30" height="70%"></h1>
 
