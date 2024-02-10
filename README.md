@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Javascript](https://www.w3schools.com/Js/) and [React](https://react.dev/)
 - 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me: **juromefernando@gmail.com**
-- ⚡ Fun fact: **I like coding while drinking coffee**
+- ⚡ Fun fact: **I like drinking coffee while coding**
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
