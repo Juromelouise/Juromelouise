@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juromelouise&label=Profile%20views&color=cccccc&style=flat" alt="juromelouise" /> </p>
 
-- 🔭 I’m currently working on [Javascript](https://www.w3schools.com/Js/) and [React](https://react.dev/)
+- 🔭 I’m currently working on [Javascript](https://www.w3schools.com/Js/), [React](https://react.dev/) and [React Native](https://docs.expo.dev/)
 - 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me: **juromefernando@gmail.com**
 - ⚡ Fun fact: **I like drinking coffee while coding**
